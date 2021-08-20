@@ -1,4 +1,4 @@
-version: 0.4
+version: 0.2
 base: Java:11
 build: mvn -f hello/pom.xml clean package
 run: java -jar hello/target/hubspot2s3-1.0-jar-with-dependencies.jar
