@@ -5,7 +5,7 @@ run: java -jar hello/target/hubspot2s3-1.0-jar-with-dependencies.jar
 
 connectors:
  - hubspot
- - aws # S3
+ - aws # S3 
 
 configs:
   schema:
