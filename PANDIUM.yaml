@@ -14,7 +14,7 @@ configs:
       s3_bucket_name:
         type: string
       s3_file_name:
-        type: string
+        type: string 
       make_contact:
         type: boolean
       make_company:
